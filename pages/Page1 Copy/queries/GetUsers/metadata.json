@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "6478e82b2de89637fc6db75e_6478e8492de89637fc6db771",
-  "id": "Page1_GetUsers",
+  "gitSyncId": "68ac1c589f9bbe2c74684dc1_3b2e11de-a1fc-4487-a49f-abc2d997daf1",
+  "id": "Page1 Copy_GetUsers",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -24,7 +24,7 @@
     },
     "dynamicBindingPathList": [],
     "name": "GetUsers",
-    "pageId": "Page1",
+    "pageId": "Page1 Copy",
     "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
